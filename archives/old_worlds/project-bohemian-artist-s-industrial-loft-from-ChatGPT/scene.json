@@ -1,0 +1,30 @@
+{
+  "splats": [
+    {
+      "filename": "bohemian-artists-industrial-loft.spz",
+      "transform": {
+        "translation": [
+          0.675,
+          2.161,
+          3.984
+        ],
+        "rotation": [
+          -178.68319813797336,
+          -21.92829867022386,
+          -1.0292339338604932
+        ],
+        "quaternion": [
+          0.982,
+          0.011,
+          -0.19,
+          -0.013
+        ],
+        "scale": 1.5566666666666666
+      }
+    }
+  ],
+  "metadata": {
+    "exportTimestamp": "2026-10-05T20:29:11.073Z",
+    "spzExportVersion": 2
+  }
+}
