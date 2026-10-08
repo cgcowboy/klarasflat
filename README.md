@@ -2,7 +2,7 @@
 
 ## An experimental workflow for adding Tripo models to a Marble world...
 
-<img width="1837" height="941" alt="image" src="https://github.com/user-attachments/assets/d593ddbd-4d06-44cc-be7e-5795ef9fda69" />
+<img width="1656" height="826" alt="vss" src="https://github.com/user-attachments/assets/5979dd8d-1a40-4dc8-a29e-f545c46d32e7" />
 
 This is a Bohemian flat where an early 1980's Party Clown named Klara prepares her clients for intergalactic space voyages.  The space is a mix of mystery and magic.  This objective was to experiment with Marble to see how easily one could create a virtual set for ensuring consistency of character positioning when creating short film shots. 
 
