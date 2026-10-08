@@ -19,9 +19,12 @@ The link to that app, with the world loaded in it, should be [here](https://bohe
 
   On Ubuntu:
 
-  1. Extract the ZIP.
-  2. Open the extracted folder in Terminal.
-  3. Run:bash start.sh
-   
-  Your browser opens automatically. Keep the terminal open; press Ctrl+C to stop.
-  Placement and file checks passed; visual browser testing remains unverified.
+  1. Download and extract the file virtual-set-studio.zip (in the 'experiment' folder).
+  2. Run:bash start.sh
+  3. Load your Tripo model(s) into a Marble world and transform them appropriately for set dressing.
+
+## Future Development:
+
+  Build cape for auto-selecting clips of original world-building input image, for Tripo conversion.
+  Secure API connection to send image to Tripo.
+  Secure API connection to receive image back into Marble world for set dressing.
